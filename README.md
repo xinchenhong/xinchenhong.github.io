@@ -4,7 +4,7 @@
 <p align="center">
 <font face="Time New Roman" ><b>Dr. Xin-Chen (Chester) Hong  洪昕晨</b></font>
 <br>
-Ph.D of Engineering
+<font face="Time New Roman" >Ph.D of Engineering</font>
 <br>
 Faculty of Engineering, Fuzhou University
 <br>
