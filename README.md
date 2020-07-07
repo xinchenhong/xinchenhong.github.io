@@ -1,7 +1,7 @@
 <img src="https://github.com/xinchenhong/xinchenhong.github.io/blob/master/IMG_4002.png" width="50%" height="50%">
 
 <p align="center">
-        <font face="Time New Roman" >Dr. Xin-Chen (Chester) Hong  洪昕晨</font>
+        <font face="Time New Roman" ><b>Dr. Xin-Chen (Chester) Hong  洪昕晨</b></font>
         <br>
         <font face="Time New Roman" >Ph.D of Engineering</font>
         <br>
@@ -50,7 +50,7 @@
 ### <font face="Time New Roman" >Professional experience and education</font>
 - <font face="Time New Roman" >2020.07 - Present &emsp;&emsp;Lecturer, Fuzhou University (FZU)</font>
 - <font face="Time New Roman" >2019.09 - Present &emsp;&emsp;Part-time Research Fellow, University of British Columbia (UBC)</font>
-- <font face="Time New Roman" >2018.08 - 2019.08 &emsp;&emsp;Cooperation Research**, University of British Columbia (UBC); Supervisor: Prof. Guang-Yu Wang</font>
+- <font face="Time New Roman" >2018.08 - 2019.08 &emsp;&emsp;Cooperation Research, University of British Columbia (UBC); Supervisor: Prof. Guang-Yu Wang</font>
 - <font face="Time New Roman" >2017.09 - 2020.06 &emsp;&emsp;Ph.D, Landscape Architecture, Fujian Agriculture and Forestry University (FAFU); Supervisor: Prof. Si-Ren Lan</font>
 - <font face="Time New Roman" >2014.09 - 2017.06 &emsp;&emsp;M.S., Landscape Architecture, Fujian Agriculture and Forestry University (FAFU); Supervisor: Prof. Si-Ren Lan</font>
 - <font face="Time New Roman" >2010.09 - 2014.06 &emsp;&emsp;B.S., Landscape Architecture, Fujian Agriculture and Forestry University (FAFU)</font>
