@@ -18,11 +18,15 @@
 
 
 ### <font face="Time New Roman" >News</font>
-- <font face="Time New Roman" >2020.6.19&emsp;&emsp;I am invited as the reviewer for International Journal of Environmental Research and Public Health.</font>
-- <font face="Time New Roman" >2020.6.13&emsp;&emsp;I get a PhD dgree in Fujian Agriculture and Forestry University (FAFU). </font>
-- <font face="Time New Roman" >2020.3.13&emsp;&emsp;I am invited as the reviewer for Forests.
-- <font face="Time New Roman" >2019.8.30&emsp;&emsp;One paper"Perceived occurrences of soundscape influencing pleasantness in urban forests: A comparison of broad-leaved and coniferous forests" is newly accepted by Sustainability.</font>
-- <font face="Time New Roman" >2019.8.29&emsp;&emsp;I finish my cooperation research in University of British Columbia (UBC).</font>
+- <font face="Time New Roman" >2020.07.01&emsp;&emsp;I start to work as a lecturer for Fuzhou University(FZU).
+- <font face="Time New Roman" >2020.06.19&emsp;&emsp;I am invited as a reviewer for International Journal of Environmental Research and Public Health.</font>
+- <font face="Time New Roman" >2020.06.13&emsp;&emsp;I get a PhD dgree in Fujian Agriculture and Forestry University (FAFU). </font>
+- <font face="Time New Roman" >2020.04.25&emsp;&emsp;I am invited to give a presentation for Beijing Forestry University (BFU).</font>
+- <font face="Time New Roman" >2020.03.13&emsp;&emsp;I am invited as a reviewer for Forests.
+- <font face="Time New Roman" >2020.10.21&emsp;&emsp;I am invited to give a presentation for Tongji University (TjU). </font>
+- <font face="Time New Roman" >2020.10.20&emsp;&emsp;I get a Award of Excellent Paper and give a presentation in 2019 Congress of Chinese Society of Landscape Architecture. </font>
+- <font face="Time New Roman" >2019.08.30&emsp;&emsp;One paper "Perceived occurrences of soundscape influencing pleasantness in urban forests: A comparison of broad-leaved and coniferous forests" is newly accepted by Sustainability.</font>
+- <font face="Time New Roman" >2019.08.29&emsp;&emsp;I finish my cooperation research in University of British Columbia (UBC).</font>
 
 
 ### <font face="Time New Roman" >Research interests</font>
