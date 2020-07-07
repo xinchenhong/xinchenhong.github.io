@@ -12,16 +12,16 @@
         <br>
         <font face="Time New Roman" >Tel: (1)778-636-1802</font>
         <br>
-        <font face="Time New Roman" > E-maill: xch.hung@outlook.com</font>
+        <font face="Time New Roman" > E-maill: xch.hung@outlook.com
         </p>
 
 ****
 
 
 ## News
-- 2020.6.13    I get a PhD dgree in Fujian Agriculture and Forestry University(FAFU).
-- 2020.8.30    I finish my cooperation research in University of British Columbia.
-
+- <font face="Time New Roman" >2020.6.13     I get a PhD dgree in Fujian Agriculture and Forestry University(FAFU). </font>
+- <font face="Time New Roman" >2020.8.30    I finish my cooperation research in University of British Columbia.</font>
+</font>
 
 ## Research interests
 Urban soundscape, urban forest acoustics, urban greening and their applications, particularly in:
