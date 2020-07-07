@@ -1,5 +1,5 @@
 
-<div>
+
 <img src="https://raw.githubusercontent.com/xinchenhong/xinchenhong.github.io/master/mini40021.png" style="position:absolute;margin-left:960px" width="15%" height="15%">
 
 <p align="center">
@@ -16,7 +16,6 @@
         <font face="Time New Roman" > E-maill: xch.hung@outlook.com</font>
  </p>
  
-</div>
 
 ****
 
