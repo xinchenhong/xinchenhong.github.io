@@ -20,12 +20,14 @@
 
 ### <font face="Time New Roman" >News</font>
 - <font face="Time New Roman" >2020.6.13&emsp;&emsp;I get a PhD dgree in Fujian Agriculture and Forestry University (FAFU). </font>
-- <font face="Time New Roman" >2020.8.30&emsp;&emsp;I finish my cooperation research in University of British Columbia (UBC).</font>
+- <font face="Time New Roman" >2019.8.30&emsp;&emsp;One paper"Perceived occurrences of soundscape influencing pleasantness in urban forests: A comparison of broad-leaved and coniferous forests" is newly accepted by _Sustainability_.</font>
+- <font face="Time New Roman" >2019.8.29&emsp;&emsp;I finish my cooperation research in University of British Columbia (UBC).</font>
+
 
 ### <font face="Time New Roman" >Research interests</font>
-Urban soundscape, urban forest acoustics, urban greening and their applications, particularly in: 
+<font face="Time New Roman" >Urban soundscape, urban forest acoustics, urban greening and their applications, particularly in:</font> 
 <br> 
-- Soundscape in urban forests
+- <font face="Time New Roman" >Soundscape in urban forests</font>
 
 ### <font face="Time New Roman" >Publications</font>
 - **Hong, X. C.**, Wang, G. Y., Liu, J., et al. (2019) Cognitive persistence of soundscape in urban parks. _Sustainable Cities and Society_, 51:17-26. (SCI, IF= 5.286)
