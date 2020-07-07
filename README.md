@@ -48,12 +48,12 @@
 - <font face="Time New Roman" >CO-PI, Research on the Coordination Evaluation and Earlywarning of Eco-economic System in Protected Areas, National Social Science Foundation, China.</font>
 
 ### <font face="Time New Roman" >Professional experience and education</font>
-- <font face="Time New Roman" >2020.7 - Present &emsp;&emsp;Lecturer, Fuzhou University (FZU)</font>
-- <font face="Time New Roman" >2019.9 - Present &emsp;&emsp;Part-time Research Fellow, University of British Columbia (UBC)</font>
-- <font face="Time New Roman" >2018.8 - 2019.8 &emsp;&emsp;Cooperation Research**, University of British Columbia (UBC); Supervisor: Prof. Guang-Yu Wang</font>
-- <font face="Time New Roman" >2017.9 - 2020.6 &emsp;&emsp;Ph.D, Landscape Architecture, Fujian Agriculture and Forestry University (FAFU); Supervisor: Prof. Si-Ren Lan</font>
-- <font face="Time New Roman" >2014.9 - 2017.6 &emsp;&emsp;M.S., Landscape Architecture, Fujian Agriculture and Forestry University (FAFU); Supervisor: Prof. Si-Ren Lan</font>
-- <font face="Time New Roman" >2010.9 - 2014.6 &emsp;&emsp;B.S., Landscape Architecture, Fujian Agriculture and Forestry University (FAFU)</font>
+- <font face="Time New Roman" >2020.07 - Present &emsp;&emsp;Lecturer, Fuzhou University (FZU)</font>
+- <font face="Time New Roman" >2019.09 - Present &emsp;&emsp;Part-time Research Fellow, University of British Columbia (UBC)</font>
+- <font face="Time New Roman" >2018.08 - 2019.08 &emsp;&emsp;Cooperation Research**, University of British Columbia (UBC); Supervisor: Prof. Guang-Yu Wang</font>
+- <font face="Time New Roman" >2017.09 - 2020.06 &emsp;&emsp;Ph.D, Landscape Architecture, Fujian Agriculture and Forestry University (FAFU); Supervisor: Prof. Si-Ren Lan</font>
+- <font face="Time New Roman" >2014.09 - 2017.06 &emsp;&emsp;M.S., Landscape Architecture, Fujian Agriculture and Forestry University (FAFU); Supervisor: Prof. Si-Ren Lan</font>
+- <font face="Time New Roman" >2010.09 - 2014.06 &emsp;&emsp;B.S., Landscape Architecture, Fujian Agriculture and Forestry University (FAFU)</font>
 
 
 
