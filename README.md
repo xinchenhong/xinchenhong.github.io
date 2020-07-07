@@ -18,14 +18,14 @@
 ****
 
 
-### <font face="Time New Roman" >News</font>
+### News
 - <font face="Time New Roman" >2020.6.13&emsp;&emsp;I get a PhD dgree in Fujian Agriculture and Forestry University(FAFU). </font>
 - <font face="Time New Roman" >2020.8.30&emsp;&emsp;I finish my cooperation research in University of British Columbia.</font>
 </font>
 
 ### Research interests
-&emsp;&emsp;Urban soundscape, urban forest acoustics, urban greening and their applications, particularly in:
-&emsp;&emsp;- Soundscape in urban forests
+Urban soundscape, urban forest acoustics, urban greening and their applications, particularly in:
+- Soundscape in urban forests
 
 ### Publications
 - **Hong, X. C.**, Wang, G. Y., Liu, J., et al. (2019) Cognitive persistence of soundscape in urban parks. _Sustainable Cities and Society_, 51:17-26. (SCI, IF= 5.286)
