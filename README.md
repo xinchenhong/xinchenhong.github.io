@@ -34,7 +34,7 @@ Urban soundscape, urban forest acoustics, urban greening and their applications,
 - **Hong, X C.**, Pan, M H.; Yuan, Y N, et al. (2018) An evaluation model suitable to bamboo gardens' soundscape coordination degree. _Journal of Vibration and Shock_, 37(9):234-238. (EI)
 - **Hong, X C.**; Jiang, Y.; Wu, S T., et al. (2018) A study on the difference of forest soundscape evaluation models based on geophonies. _25th International Congress on Sound and Vibration_. Hiroshima, Japan: 1547-1553. 
 - **Hong, X C.**, Nie, X J.; Dai, Z W.,et al. (2019) Study on evaluation of lightscape under forests in urban parks. _IOP: Earth and Environmental Science_, 032038. (EI)
-- **Hong, X C**, Yan, C, Lan S R. (2019) The effect of spectral centroid on perceived birdsong in urb an forests.*_23rd International Congress on Acoustics_. Aachen, Germany. 
+- **Hong, X C**, Yan, C, Lan S R. (2019) The effect of spectral centroid on perceived birdsong in urb an forests._23rd International Congress on Acoustics_. Aachen, Germany. 
 - **Hong, X C.**, Jiang, Y.; Wu, ST., et al. (2019) Study on evaluation model of soundscape in urban park based on Radial Basis Function Neural Network: A case study of Shiba Park and Kamogawa Park, Japan. _IOP: Earth and Environmental Science_, 032036. (EI)
 
 ## Projects
