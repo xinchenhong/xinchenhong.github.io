@@ -27,7 +27,6 @@
 
 ### <font face="Time New Roman" >Research interests</font>
 <font face="Time New Roman" >Urban soundscape, urban forest acoustics, urban greening and their applications, particularly in:</font> 
-<br> 
 - <font face="Time New Roman" >Soundscape in urban forests</font>
 
 ### <font face="Time New Roman" >Publications</font>
