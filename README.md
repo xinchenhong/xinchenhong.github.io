@@ -14,7 +14,7 @@
  
   ****
  
- <toc><font face="Time New Roman" >News</font></toc>
+ <toc><font face="Time New Roman" >[News] [Research interests] [Publications] [Projects] [Professional experience and education]</font></toc>
  
  ****
 
