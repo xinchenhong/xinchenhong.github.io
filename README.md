@@ -39,3 +39,10 @@ Urban soundscape, urban forest acoustics, urban greening and their applications,
 ## Projects
 PI, **Modeling the Psychophysics of Soundscape in Forest Parks**, the Funding of Engineering Research Center for Forest Park of National Forestry and Grassland Administration, China.
 CO-PI, **Research on the Coordination Evaluation and Earlywarning of Eco-economic System in Protected Areas**, National Social Science Foundation, China.
+
+## Education
+- 2018.8 - 2019.8 Cooperation Research University of British Columbia;
+           Supervisor: Prof. Guang-Yu Wang
+- 2017.9 - 2020.6 Ph.D, Landscape Architecture, Fujian Agriculture and Forestry University
+- 2014.9 - 2017.6 M.S., Landscape Architecture, Fujian Agriculture and Forestry University, Supervisor: Prof. Si-Ren Lan
+- 2010.9 - 2014.6 Bachelor Fujian Agriculture and Forestry University, Landscape Architecture
