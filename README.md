@@ -2,8 +2,7 @@
 
 <p align="center">
   <b>Dr. Xin-Chen (Chester) Hong  洪昕晨</b>
-</p>
-<p align="center">
+<br>
 Ph.D of Engineering
 <p align="center">
 Faculty of Engineering, Fuzhou University
@@ -15,8 +14,7 @@ Tel: (1)778-636-1802
 E-maill: xch.hung@outlook.com
 </p>
 
-Xin-Chen Hong is a lecturer (associate professorship in Faculty of Engineering ) in Fuzhou University. He previously employed at Norendar International LTD. His background is in Landscape Architecture (Master's degree and PhD), and his research and professional interests include urban soundscape, urban forest acoustics, urban greening, and urban biodiversity. His project is visitor experience and human wildlife conflicts.
-
+****
 
 
 ## News
@@ -24,7 +22,8 @@ Xin-Chen Hong is a lecturer (associate professorship in Faculty of Engineering )
 - 2020.8.30    I finish my cooperation research in University of British Columbia.
 
 
-## Header 2
+## Research interests
+urban soundscape, urban forest acoustics, urban greening and thieir applications, particularly in:
 
 
 - Bulleted
