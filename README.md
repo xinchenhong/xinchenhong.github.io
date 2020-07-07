@@ -2,18 +2,18 @@
 
 
 <p align="center">
-<font face="Time New Roman" ><b>Dr. Xin-Chen (Chester) Hong  洪昕晨</b></font>
-<br>
-<font face="Time New Roman" >Ph.D of Engineering</font>
-<br>
-Faculty of Engineering, Fuzhou University
-<br>
-2 XY Road, Fuzhou, Fujian, 350116 China
-<br>
-Tel: (1)778-636-1802
-<br>
-E-maill: xch.hung@outlook.com
-</p>
+        <font face="Time New Roman" ><b>Dr. Xin-Chen (Chester) Hong  洪昕晨</b></font>
+        <br>
+        <font face="Time New Roman" >Ph.D of Engineering</font>
+        <br>
+        Faculty of Engineering, Fuzhou University
+        <br>
+        2 XY Road, Fuzhou, Fujian, 350116 China
+        <br>
+        Tel: (1)778-636-1802
+        <br>
+        E-maill: xch.hung@outlook.com
+        </p>
 
 ****
 
@@ -38,8 +38,8 @@ Urban soundscape, urban forest acoustics, urban greening and their applications,
 - **Hong, X C.**, Jiang, Y.; Wu, ST., et al. (2019) Study on evaluation model of soundscape in urban park based on Radial Basis Function Neural Network: A case study of Shiba Park and Kamogawa Park, Japan. _IOP: Earth and Environmental Science_, 032036. (EI)
 
 ## Projects
-PI, **Modeling the Psychophysics of Soundscape in Forest Parks**, the Funding of Engineering Research Center for Forest Park of National Forestry and Grassland Administration, China.
-CO-PI, **Research on the Coordination Evaluation and Earlywarning of Eco-economic System in Protected Areas**, National Social Science Foundation, China.
+- PI, **Modeling the Psychophysics of Soundscape in Forest Parks**, the Funding of Engineering Research Center for Forest Park of National Forestry and Grassland Administration, China.
+- CO-PI, **Research on the Coordination Evaluation and Earlywarning of Eco-economic System in Protected Areas**, National Social Science Foundation, China.
 
 ## Professional experience and education
 - 2020.7 - Present **Lecturer**, Fuzhou University
