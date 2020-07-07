@@ -17,7 +17,6 @@
 
 ****
 
-
 ### <font face="Time New Roman" >News</font>
 - <font face="Time New Roman" >2020.07.01&emsp;&emsp;I start to work as a lecturer for Fuzhou University (FZU).
 - <font face="Time New Roman" >2020.06.19&emsp;&emsp;I am invited as a reviewer for International Journal of Environmental Research and Public Health.</font>
@@ -33,6 +32,7 @@
 ### <font face="Time New Roman" >Research interests</font>
 <font face="Time New Roman" >Urban soundscape, urban forest acoustics, urban greening and their applications, particularly in:</font> 
 - <font face="Time New Roman" >Soundscape in urban forests</font>
+
 
 ### <font face="Time New Roman" >Publications</font>
 - <font face="Time New Roman" >Hong, X. C., Wang, G. Y., Liu, J., et al. (2019) Cognitive persistence of soundscape in urban parks. Sustainable Cities and Society, 51:17-26. (SCI, IF= 5.286)</font>
