@@ -1,5 +1,4 @@
-![](https://github.com/xinchenhong/xinchenhong.github.io/blob/master/1%E5%AF%B8.jpg)
-
+<img src="https://github.com/xinchenhong/xinchenhong.github.io/blob/master/1%E5%AF%B8.jpg" width="50%" height="50%">
 
 <p align="center">
         <font face="Time New Roman" >Dr. Xin-Chen (Chester) Hong  洪昕晨</font>
@@ -20,7 +19,8 @@
 
 ### <font face="Time New Roman" >News</font>
 - <font face="Time New Roman" >2020.6.13&emsp;&emsp;I get a PhD dgree in Fujian Agriculture and Forestry University (FAFU). </font>
-- <font face="Time New Roman" >2019.8.30&emsp;&emsp;One paper"Perceived occurrences of soundscape influencing pleasantness in urban forests: A comparison of broad-leaved and coniferous forests" is newly accepted by _Sustainability_.</font>
+- <font face="Time New Roman" >2019.8.30&emsp;&emsp;I am invited as the reviewer for Forests.
+- <font face="Time New Roman" >2019.8.30&emsp;&emsp;One paper"Perceived occurrences of soundscape influencing pleasantness in urban forests: A comparison of broad-leaved and coniferous forests" is newly accepted by Sustainability.</font>
 - <font face="Time New Roman" >2019.8.29&emsp;&emsp;I finish my cooperation research in University of British Columbia (UBC).</font>
 
 
