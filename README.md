@@ -1,36 +1,31 @@
 ![Image](https://github.com/xinchenhong/xinchenhong.github.io/blob/master/1%E5%AF%B8.jpg)
 
 <p align="center">
-<b>Dr. Xin-Chen (Chester) Hong 洪昕晨</b>
+  <b>Dr. Xin-Chen (Chester) Hong  洪昕晨</b>
 </p>
 <p align="center">
 Ph.D of Engineering
-
 <p align="center">
 Faculty of Engineering, Fuzhou University
-</p>
 <p align="center">
 2 XY Road, Fuzhou, Fujian, 350116 China
-</p>
 <p align="center">
 Tel: (1)778-636-1802
-</p>
 <p align="center">
 E-maill: xch.hung@outlook.com
 </p>
 
+Xin-Chen Hong is a lecturer (associate professorship in Faculty of Engineering ) in Fuzhou University. He previously employed at Norendar International LTD. His background is in Landscape Architecture (Master's degree and PhD), and his research and professional interests include urban soundscape, urban forest acoustics, urban greening, and urban biodiversity. His project is visitor experience and human wildlife conflicts.
 
 
 
+## News
+- 2020.6.13    I get a PhD dgree in Fujian Agriculture and Forestry University(FAFU).
+- 2020.8.30    I finish my cooperation research in University of British Columbia.
 
-### News
-- 2020.6.13 I get a PhD dgree in Fujian Agriculture and Forestry University(FAFU).
-- 2020.8.30 I finish my cooperation research in University of British Columbia.
 
-
-# Header 1
 ## Header 2
-### Header 3
+
 
 - Bulleted
 - List
