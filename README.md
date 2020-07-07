@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/xinchenhong/xinchenhong.github.io/blob/master/chester.png" align="left" width="10%" height="10%">
+<img src="https://github.com/xinchenhong/xinchenhong.github.io/blob/master/mini40021.png" align="left" width="15%" height="15%">
 
 <p align="center">
         <font face="Time New Roman" ><b>Dr. Xin-Chen (Chester) Hong  洪昕晨</b></font>
@@ -10,8 +10,6 @@
         <font face="Time New Roman" >Faculty of Engineering, Fuzhou University</font>
         <br>
         <font face="Time New Roman" >2 XY Road, Fuzhou, Fujian, 350116 China</font>
-        <br>
-        <font face="Time New Roman" >Tel: (1)778-636-1802</font>
         <br>
         <font face="Time New Roman" > E-maill: xch.hung@outlook.com</font>
  </p>
