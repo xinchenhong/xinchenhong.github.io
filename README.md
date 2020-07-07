@@ -1,6 +1,7 @@
 
-
+<div>
 <img src="https://github.com/xinchenhong/xinchenhong.github.io/blob/master/mini40021.png" align="left" width="15%" height="15%">
+</div>
 
 <p align="center">
         <font face="Time New Roman" ><b>Dr. Xin-Chen (Chester) Hong  洪昕晨</b></font>
