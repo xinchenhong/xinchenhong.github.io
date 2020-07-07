@@ -21,7 +21,6 @@
 ### News
 - <font face="Time New Roman" >2020.6.13&emsp;&emsp;I get a PhD dgree in Fujian Agriculture and Forestry University(FAFU). </font>
 - <font face="Time New Roman" >2020.8.30&emsp;&emsp;I finish my cooperation research in University of British Columbia.</font>
-</font>
 
 ### Research interests
 Urban soundscape, urban forest acoustics, urban greening and their applications, particularly in:
