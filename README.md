@@ -1,7 +1,7 @@
 ![Image](https://github.com/xinchenhong/xinchenhong.github.io/blob/master/1%E5%AF%B8.jpg)
 
 <p align="center">
-  <b>Dr. Xin-Chen (Chester) Hong  洪昕晨</b>
+<b>Dr. Xin-Chen (Chester) Hong  洪昕晨</b>
 <br>
 Ph.D of Engineering
 <br>
@@ -27,11 +27,11 @@ Urban soundscape, urban forest acoustics, urban greening and their applications,
 - Soundscape in urban forests
 
 ## Publications
-- **Hong, X. C.**, Wang, G. Y., Liu, J., et al. (2019) Cognitive persistence of soundscape in urban parks. Sustainable Cities and Society, 51:17-26. (SCI, IF= 5.286)
-- **Hong, X. C.**, Liu, J., Wang, G. Y., et al. (2019) Factors influencing the harmonious degree of soundscapes in urban forests: A comparison of broad-leaved and coniferous forests. Urban Forestry and Urban Greening, 39:18-25. (SCI, IF = 4.023)
-- **Hong, X. C.**, Zhu Z. P., Liu J., et al. (2019) erceived occurrences of soundscape influencing pleasantness in urban forests: a comparison of broad-leaved and coniferous forests. Sustainability, 11:4789. (SCI, IF = 2.576)
-- **Hong, X C.**, Pan, M H.; Yuan, Y N, et al. (2018) An evaluation model suitable to bamboo gardens' soundscape coordination degree. Journal of Vibration and Shock, 37(9):234-238. (EI)
-- **Hong, X C.**; Jiang, Y.; Wu, S T., et al. (2018) A study on the difference of forest soundscape evaluation models based on geophonies. 25th International Congress on Sound and Vibration. Hiroshima, Japan: 1547-1553. 
-- **Hong, X C.**, Nie, X J.; Dai, Z W.,et al. (2019) Study on evaluation of lightscape under forests in urban parks. IOP: Earth and Environmental Science, 032038. (EI)
-- **Hong, X C**, Yan, C, Lan S R. (2019) The effect of spectral centroid on perceived birdsong in urb an forests. 23rd International Congress on Acoustics. Aachen, Germany. 
-- **Hong, X C.**, Jiang, Y.; Wu, ST., et al. (2019) Study on evaluation model of soundscape in urban park based on Radial Basis Function Neural Network: A case study of Shiba Park and Kamogawa Park, Japan. IOP: Earth and Environmental Science, 032036. (EI)
+- **Hong, X. C.**, Wang, G. Y., Liu, J., et al. (2019) Cognitive persistence of soundscape in urban parks. **_Sustainable Cities and Society_**, 51:17-26. (SCI, IF= 5.286)
+- **Hong, X. C.**, Liu, J., Wang, G. Y., et al. (2019) Factors influencing the harmonious degree of soundscapes in urban forests: A comparison of broad-leaved and coniferous forests. **_Urban Forestry and Urban Greening_**, 39:18-25. (SCI, IF = 4.023)
+- **Hong, X. C.**, Zhu Z. P., Liu J., et al. (2019) erceived occurrences of soundscape influencing pleasantness in urban forests: a comparison of broad-leaved and coniferous forests. **_Sustainability_**, 11:4789. (SCI, IF = 2.576)
+- **Hong, X C.**, Pan, M H.; Yuan, Y N, et al. (2018) An evaluation model suitable to bamboo gardens' soundscape coordination degree. **_Journal of Vibration and Shock_**, 37(9):234-238. (EI)
+- **Hong, X C.**; Jiang, Y.; Wu, S T., et al. (2018) A study on the difference of forest soundscape evaluation models based on geophonies. **_25th International Congress on Sound and Vibration_**. Hiroshima, Japan: 1547-1553. 
+- **Hong, X C.**, Nie, X J.; Dai, Z W.,et al. (2019) Study on evaluation of lightscape under forests in urban parks. **_IOP: Earth and Environmental Science_**, 032038. (EI)
+- **Hong, X C**, Yan, C, Lan S R. (2019) The effect of spectral centroid on perceived birdsong in urb an forests. **_23rd International Congress on Acoustics_**. Aachen, Germany. 
+- **Hong, X C.**, Jiang, Y.; Wu, ST., et al. (2019) Study on evaluation model of soundscape in urban park based on Radial Basis Function Neural Network: A case study of Shiba Park and Kamogawa Park, Japan. **_IOP: Earth and Environmental Science_**, 032036. (EI)
