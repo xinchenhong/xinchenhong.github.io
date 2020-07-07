@@ -30,7 +30,7 @@
 - <font face="Time New Roman" >Soundscape in urban forests</font>
 
 ### <font face="Time New Roman" >Publications</font>
-- **<font face="Time New Roman" >Hong, X. C.</font>**, <font face="Time New Roman" >Wang, G. Y., Liu, J., et al. (2019) Cognitive persistence of soundscape in urban parks. _Sustainable Cities and Society_, 51:17-26. (SCI, IF= 5.286)</font>
+- <b><font face="Time New Roman" >Hong, X. C.</font></b>, <font face="Time New Roman" >Wang, G. Y., Liu, J., et al. (2019) Cognitive persistence of soundscape in urban parks. _Sustainable Cities and Society_, 51:17-26. (SCI, IF= 5.286)</font>
 - **Hong, X. C.**, Liu, J., Wang, G. Y., et al. (2019) Factors influencing the harmonious degree of soundscapes in urban forests: A comparison of broad-leaved and coniferous forests. _Urban Forestry and Urban Greening_, 39:18-25. (SCI, IF = 4.023)
 - **Hong, X. C.**, Zhu Z. P., Liu J., et al. (2019) erceived occurrences of soundscape influencing pleasantness in urban forests: a comparison of broad-leaved and coniferous forests. _Sustainability_, 11:4789. (SCI, IF = 2.576)
 - **Hong, X C.**, Pan, M H.; Yuan, Y N, et al. (2018) An evaluation model suitable to bamboo gardens' soundscape coordination degree. _Journal of Vibration and Shock_, 37(9):234-238. (EI)
