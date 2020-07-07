@@ -42,12 +42,12 @@ Urban soundscape, urban forest acoustics, urban greening and their applications,
 - CO-PI, **Research on the Coordination Evaluation and Earlywarning of Eco-economic System in Protected Areas**, National Social Science Foundation, China.
 
 ### Professional experience and education
-- 2020.7 - Present &emsp;&emsp;**Lecturer**, Fuzhou University
-- 2019.9 - Present &emsp;&emsp;**Research Fellow**, University of British Columbia
-- 2018.8 - 2019.8 &emsp;&emsp;**Cooperation Research**, University of British Columbia; Supervisor: Prof. Guang-Yu Wang
-- 2017.9 - 2020.6 &emsp;&emsp;**Ph.D, Landscape Architecture**, Fujian Agriculture and Forestry University; Supervisor: Prof. Si-Ren Lan
-- 2014.9 - 2017.6 &emsp;&emsp;**M.S., Landscape Architecture**, Fujian Agriculture and Forestry University; Supervisor: Prof. Si-Ren Lan
-- 2010.9 - 2014.6 &emsp;&emsp;**B.S.**, Landscape Architecture, Fujian Agriculture and Forestry University
+- 2020.7 - Present &emsp;&emsp;**Lecturer**, Fuzhou University (FZU)
+- 2019.9 - Present &emsp;&emsp;**Part-time Research Fellow**, University of British Columbia (UBC)
+- 2018.8 - 2019.8 &emsp;&emsp;**Cooperation Research**, University of British Columbia (UBC); Supervisor: Prof. Guang-Yu Wang
+- 2017.9 - 2020.6 &emsp;&emsp;**Ph.D, Landscape Architecture**, Fujian Agriculture and Forestry University (FAFU); Supervisor: Prof. Si-Ren Lan
+- 2014.9 - 2017.6 &emsp;&emsp;**M.S., Landscape Architecture**, Fujian Agriculture and Forestry University (FAFU); Supervisor: Prof. Si-Ren Lan
+- 2010.9 - 2014.6 &emsp;&emsp;**B.S.**, Landscape Architecture, Fujian Agriculture and Forestry University (FAFU)
 
 
 
