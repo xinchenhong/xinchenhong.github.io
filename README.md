@@ -23,8 +23,8 @@
 - <font face="Time New Roman" >2020.06.13&emsp;&emsp;I get a PhD dgree in Fujian Agriculture and Forestry University (FAFU). </font>
 - <font face="Time New Roman" >2020.04.25&emsp;&emsp;I am invited to give a presentation for Beijing Forestry University (BFU).</font>
 - <font face="Time New Roman" >2020.03.13&emsp;&emsp;I am invited as a reviewer for Forests.
-- <font face="Time New Roman" >2020.10.21&emsp;&emsp;I am invited to give a presentation for Tongji University (TjU). </font>
-- <font face="Time New Roman" >2020.10.20&emsp;&emsp;I get an Award of Excellent Paper and give a presentation in 2019 Congress of Chinese Society of Landscape Architecture. </font>
+- <font face="Time New Roman" >2019.10.21&emsp;&emsp;I am invited to give a presentation for Tongji University (TjU). </font>
+- <font face="Time New Roman" >2019.10.20&emsp;&emsp;I get an Award of Excellent Paper and give a presentation in 2019 Congress of Chinese Society of Landscape Architecture. </font>
 - <font face="Time New Roman" >2019.08.30&emsp;&emsp;One paper "Perceived occurrences of soundscape influencing pleasantness in urban forests: A comparison of broad-leaved and coniferous forests" is newly accepted by Sustainability.</font>
 - <font face="Time New Roman" >2019.08.29&emsp;&emsp;I finish my cooperation research in University of British Columbia (UBC).</font>
 
@@ -48,12 +48,12 @@
 - <font face="Time New Roman" >CO-PI, Research on the Coordination Evaluation and Earlywarning of Eco-economic System in Protected Areas, National Social Science Foundation, China.</font>
 
 ### <font face="Time New Roman" >Professional experience and education</font>
-- 2020.7 - Present &emsp;&emsp;**Lecturer**, Fuzhou University (FZU)
-- 2019.9 - Present &emsp;&emsp;**Part-time Research Fellow**, University of British Columbia (UBC)
-- 2018.8 - 2019.8 &emsp;&emsp;**Cooperation Research**, University of British Columbia (UBC); Supervisor: Prof. Guang-Yu Wang
-- 2017.9 - 2020.6 &emsp;&emsp;**Ph.D, Landscape Architecture**, Fujian Agriculture and Forestry University (FAFU); Supervisor: Prof. Si-Ren Lan
-- 2014.9 - 2017.6 &emsp;&emsp;**M.S., Landscape Architecture**, Fujian Agriculture and Forestry University (FAFU); Supervisor: Prof. Si-Ren Lan
-- 2010.9 - 2014.6 &emsp;&emsp;**B.S.**, Landscape Architecture, Fujian Agriculture and Forestry University (FAFU)
+- <font face="Time New Roman" >2020.7 - Present &emsp;&emsp;Lecturer, Fuzhou University (FZU)</font>
+- <font face="Time New Roman" >2019.9 - Present &emsp;&emsp;Part-time Research Fellow**, University of British Columbia (UBC)</font>
+- <font face="Time New Roman" >2018.8 - 2019.8 &emsp;&emsp;Cooperation Research**, University of British Columbia (UBC); Supervisor: Prof. Guang-Yu Wang</font>
+- <font face="Time New Roman" >2017.9 - 2020.6 &emsp;&emsp;Ph.D, Landscape Architecture**, Fujian Agriculture and Forestry University (FAFU); Supervisor: Prof. Si-Ren Lan</font>
+- <font face="Time New Roman" >2014.9 - 2017.6 &emsp;&emsp;M.S., Landscape Architecture**, Fujian Agriculture and Forestry University (FAFU); Supervisor: Prof. Si-Ren Lan</font>
+- <font face="Time New Roman" >2010.9 - 2014.6 &emsp;&emsp;B.S., Landscape Architecture, Fujian Agriculture and Forestry University (FAFU)</font>
 
 
 
