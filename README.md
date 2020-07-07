@@ -1,4 +1,4 @@
-![Image](https://github.com/xinchenhong/xinchenhong.github.io/blob/master/202697013257786297.jpg)
+![Image](https://github.com/xinchenhong/xinchenhong.github.io/blob/master/1%E5%AF%B8.jpg)
 
 <p align="center">
 <b>Dr. Xin-Chen (Chester) Hong 洪昕晨</b>
