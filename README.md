@@ -1,8 +1,8 @@
 ![Image](https://github.com/xinchenhong/xinchenhong.github.io/blob/master/1%E5%AF%B8.jpg)
 
-<font face="Time New Roman" >
+
 <p align="center">
-<b>Dr. Xin-Chen (Chester) Hong  洪昕晨</b>
+<font face="Time New Roman" ><b>Dr. Xin-Chen (Chester) Hong  洪昕晨</b></font>
 <br>
 Ph.D of Engineering
 <br>
@@ -50,4 +50,4 @@ CO-PI, **Research on the Coordination Evaluation and Earlywarning of Eco-econo
 - 2010.9 - 2014.6 **B.S.**, Landscape Architecture, Fujian Agriculture and Forestry University
 
 
-</font>
+
