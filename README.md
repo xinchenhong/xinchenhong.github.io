@@ -5,12 +5,9 @@
 </p>
 <p align="center">
 Ph.D of Engineering
-</p>
+
 <p align="center">
-Fuzhou University
-</p>
-<p align="center">
-Faculty of Engineering
+Faculty of Engineering, Fuzhou University
 </p>
 <p align="center">
 2 XY Road, Fuzhou, Fujian, 350116 China
@@ -27,7 +24,8 @@ E-maill: xch.hung@outlook.com
 
 
 ### News
-
+- 2020.6.13 I get a PhD dgree in Fujian Agriculture and Forestry University(FAFU).
+- 2020.8.30 I finish my cooperation research in University of British Columbia.
 
 
 # Header 1
