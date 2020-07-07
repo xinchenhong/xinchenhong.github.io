@@ -1,3 +1,5 @@
+![Image](https://github.com/xinchenhong/xinchenhong.github.io/blob/master/202697013257786297.jpg)
+
 <p align="center">
 <b>Dr. Xin-Chen (Chester) Hong 洪昕晨</b>
 </p>
@@ -9,7 +11,7 @@ Ph.D of Engineering
 
 
 
-### Markdown
+### News
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
