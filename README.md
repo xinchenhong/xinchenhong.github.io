@@ -12,7 +12,7 @@
         <br>
         <font face="Time New Roman" >Tel: (1)778-636-1802</font>
         <br>
-        <font face="Time New Roman" > E-maill: xch.hung@outlook.com
+        <font face="Time New Roman" > E-maill: xch.hung@outlook.com</font>
  </p>
 
 ****
