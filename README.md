@@ -8,13 +8,13 @@
         <br>
         <font face="Time New Roman" >Ph.D of Engineering</font>
         <br>
-        Faculty of Engineering, Fuzhou University
+        <font face="Time New Roman" >Faculty of Engineering, Fuzhou University</font>
         <br>
-        2 XY Road, Fuzhou, Fujian, 350116 China
+        <font face="Time New Roman" >2 XY Road, Fuzhou, Fujian, 350116 China</font>
         <br>
-        Tel: (1)778-636-1802
+        <font face="Time New Roman" >Tel: (1)778-636-1802</font>
         <br>
-        E-maill: xch.hung@outlook.com
+        <font face="Time New Roman" > E-maill: xch.hung@outlook.com</font>
         </p>
 
 ****
