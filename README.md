@@ -19,13 +19,13 @@
 
 
 ### <font face="Time New Roman" >News</font>
-- <font face="Time New Roman" >2020.6.13     I get a PhD dgree in Fujian Agriculture and Forestry University(FAFU). </font>
-- <font face="Time New Roman" >2020.8.30    I finish my cooperation research in University of British Columbia.</font>
+- <font face="Time New Roman" >2020.6.13&emsp;&emsp;I get a PhD dgree in Fujian Agriculture and Forestry University(FAFU). </font>
+- <font face="Time New Roman" >2020.8.30&emsp;&emsp;I finish my cooperation research in University of British Columbia.</font>
 </font>
 
 ### Research interests
-Urban soundscape, urban forest acoustics, urban greening and their applications, particularly in:
-- Soundscape in urban forests
+&emsp;&emsp;Urban soundscape, urban forest acoustics, urban greening and their applications, particularly in:
+&emsp;&emsp;- Soundscape in urban forests
 
 ### Publications
 - **Hong, X. C.**, Wang, G. Y., Liu, J., et al. (2019) Cognitive persistence of soundscape in urban parks. _Sustainable Cities and Society_, 51:17-26. (SCI, IF= 5.286)
@@ -42,12 +42,12 @@ Urban soundscape, urban forest acoustics, urban greening and their applications,
 - CO-PI, **Research on the Coordination Evaluation and Earlywarning of Eco-economic System in Protected Areas**, National Social Science Foundation, China.
 
 ### Professional experience and education
-- 2020.7 - Present **Lecturer**, Fuzhou University
-- 2019.9 - Present **Research Fellow**, University of British Columbia
-- 2018.8 - 2019.8 **Cooperation Research**, University of British Columbia; Supervisor: Prof. Guang-Yu Wang
-- 2017.9 - 2020.6 **Ph.D, Landscape Architecture**, Fujian Agriculture and Forestry University; Supervisor: Prof. Si-Ren Lan
-- 2014.9 - 2017.6 **M.S., Landscape Architecture**, Fujian Agriculture and Forestry University; Supervisor: Prof. Si-Ren Lan
-- 2010.9 - 2014.6 **B.S.**, Landscape Architecture, Fujian Agriculture and Forestry University
+- 2020.7 - Present &emsp;&emsp;**Lecturer**, Fuzhou University
+- 2019.9 - Present &emsp;&emsp;**Research Fellow**, University of British Columbia
+- 2018.8 - 2019.8 &emsp;&emsp;**Cooperation Research**, University of British Columbia; Supervisor: Prof. Guang-Yu Wang
+- 2017.9 - 2020.6 &emsp;&emsp;**Ph.D, Landscape Architecture**, Fujian Agriculture and Forestry University; Supervisor: Prof. Si-Ren Lan
+- 2014.9 - 2017.6 &emsp;&emsp;**M.S., Landscape Architecture**, Fujian Agriculture and Forestry University; Supervisor: Prof. Si-Ren Lan
+- 2010.9 - 2014.6 &emsp;&emsp;**B.S.**, Landscape Architecture, Fujian Agriculture and Forestry University
 
 
 
