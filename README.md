@@ -36,6 +36,6 @@ Urban soundscape, urban forest acoustics, urban greening and their applications,
 - **Hong, X C**, Yan, C, Lan S R. (2019) The effect of spectral centroid on perceived birdsong in urb an forests.*_23rd International Congress on Acoustics_. Aachen, Germany. 
 - **Hong, X C.**, Jiang, Y.; Wu, ST., et al. (2019) Study on evaluation model of soundscape in urban park based on Radial Basis Function Neural Network: A case study of Shiba Park and Kamogawa Park, Japan. _IOP: Earth and Environmental Science_, 032036. (EI)
 
-##Projects
+## Projects
 PI, **Modeling the Psychophysics of Soundscape in Forest Parks**, the Funding of Engineering Research Center for Forest Park of National Forestry and Grassland Administration, China.
 CO-PI, **Research on the Coordination Evaluation and Earlywarning of Eco-economic System in Protected Areas**, National Social Science Foundation, China.
