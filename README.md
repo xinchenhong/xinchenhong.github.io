@@ -13,7 +13,13 @@ Fuzhou University
 Faculty of Engineering
 </p>
 <p align="center">
-E-maill:xch.hung@outlook.com
+2 XY Road, Fuzhou, Fujian, 350116 China
+</p>
+<p align="center">
+Tel: (1)778-636-1802
+</p>
+<p align="center">
+E-maill: xch.hung@outlook.com
 </p>
 
 
