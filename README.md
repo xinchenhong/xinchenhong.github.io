@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/xinchenhong/xinchenhong.github.io/master/mini40021.png" style="div-align:middle" width="15%" height="15%">
+
+<div>
+<img src="https://raw.githubusercontent.com/xinchenhong/xinchenhong.github.io/master/mini40021.png" style="position:absolute;margin-left:960px" width="15%" height="15%">
 
 <p align="center">
         <font face="Time New Roman" ><b>Dr. Xin-Chen (Chester) Hong  洪昕晨</b></font>
@@ -13,7 +15,8 @@
         <br>
         <font face="Time New Roman" > E-maill: xch.hung@outlook.com</font>
  </p>
-
+ 
+</div>
 
 ****
 
