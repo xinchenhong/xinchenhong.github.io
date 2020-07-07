@@ -2,7 +2,9 @@
 
 
 <p align="center">
-        <font face="Time New Roman" ><b>Dr. Xin-Chen (Chester) Hong  洪昕晨</b></font>
+        <b>
+                <font face="Time New Roman" >Dr. Xin-Chen (Chester) Hong  洪昕晨</font>
+        </b>
         <br>
         <font face="Time New Roman" >Ph.D of Engineering</font>
         <br>
