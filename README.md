@@ -1,5 +1,6 @@
 ![Image](https://github.com/xinchenhong/xinchenhong.github.io/blob/master/1%E5%AF%B8.jpg)
 
+<font face="Time New Roman" >
 <p align="center">
 <b>Dr. Xin-Chen (Chester) Hong  洪昕晨</b>
 <br>
@@ -47,3 +48,6 @@ CO-PI, **Research on the Coordination Evaluation and Earlywarning of Eco-econo
 - 2017.9 - 2020.6 **Ph.D, Landscape Architecture**, Fujian Agriculture and Forestry University; Supervisor: Prof. Si-Ren Lan
 - 2014.9 - 2017.6 **M.S., Landscape Architecture**, Fujian Agriculture and Forestry University; Supervisor: Prof. Si-Ren Lan
 - 2010.9 - 2014.6 **B.S.**, Landscape Architecture, Fujian Agriculture and Forestry University
+
+
+</font>
