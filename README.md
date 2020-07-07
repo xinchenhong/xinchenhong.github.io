@@ -1,8 +1,5 @@
 
-<div>
 <img src="https://github.com/xinchenhong/xinchenhong.github.io/blob/master/mini40021.png" align="left" width="15%" height="15%">
-</div>
-
 <p align="center">
         <font face="Time New Roman" ><b>Dr. Xin-Chen (Chester) Hong  洪昕晨</b></font>
         <br>
@@ -11,7 +8,6 @@
         <font face="Time New Roman" >Faculty of Engineering, Fuzhou University</font>
         <br>
         <font face="Time New Roman" >2 XY Road, Fuzhou, Fujian, 350116 China</font>
-        <br>
         <br>
         <font face="Time New Roman" > E-maill: xch.hung@outlook.com</font>
  </p>
@@ -31,11 +27,13 @@
 - <font face="Time New Roman" >2019.08.30&emsp;&emsp;One paper "Perceived occurrences of soundscape influencing pleasantness in urban forests: A comparison of broad-leaved and coniferous forests" is newly accepted by Sustainability.</font>
 - <font face="Time New Roman" >2019.08.29&emsp;&emsp;I finish my cooperation research in University of British Columbia (UBC).</font>
 
+****
 
 ### <font face="Time New Roman" >Research interests</font>
 <font face="Time New Roman" >Urban soundscape, urban forest acoustics, urban greening and their applications, particularly in:</font> 
 - <font face="Time New Roman" >Soundscape in urban forests</font>
 
+****
 
 ### <font face="Time New Roman" >Publications</font>
 - <font face="Time New Roman" >Hong, X. C., Wang, G. Y., Liu, J., et al. (2019) Cognitive persistence of soundscape in urban parks. Sustainable Cities and Society, 51:17-26. (SCI, IF= 5.286)</font>
@@ -47,9 +45,13 @@
 - <font face="Time New Roman" >Hong, X C, Yan, C, Lan S R. (2019) The effect of spectral centroid on perceived birdsong in urb an forests.23rd International Congress on Acoustics. Aachen, Germany. </font>
 - <font face="Time New Roman" >Hong, X C., Jiang, Y.; Wu, ST., et al. (2019) Study on evaluation model of soundscape in urban park based on Radial Basis Function Neural Network: A case study of Shiba Park and Kamogawa Park, Japan. IOP: Earth and Environmental Science, 032036. (EI)</font>
 
+****
+
 ### <font face="Time New Roman" >Projects</font>
 - <font face="Time New Roman" >PI, Modeling the Psychophysics of Soundscape in Forest Parks, the Funding of Engineering Research Center for Forest Park of National Forestry and Grassland Administration, China.</font>
 - <font face="Time New Roman" >CO-PI, Research on the Coordination Evaluation and Earlywarning of Eco-economic System in Protected Areas, National Social Science Foundation, China.</font>
+
+****
 
 ### <font face="Time New Roman" >Professional experience and education</font>
 - <font face="Time New Roman" >2020.07 - Present &emsp;&emsp;Lecturer, Fuzhou University (FZU)</font>
