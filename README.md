@@ -1,4 +1,4 @@
-<img src="https://github.com/xinchenhong/xinchenhong.github.io/raw/master/IMG_4002.png" width="50%" height="50%">
+<img src="http://5b0988e595225.cdn.sohucs.com/images/20200423/af9cdfdc382e47d58018c438105ba6ed.jpeg" width="50%" height="50%">
 
 <p align="center">
         <font face="Time New Roman" ><b>Dr. Xin-Chen (Chester) Hong  洪昕晨</b></font>
