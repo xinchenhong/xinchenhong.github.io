@@ -4,13 +4,13 @@
   <b>Dr. Xin-Chen (Chester) Hong  洪昕晨</b>
 <br>
 Ph.D of Engineering
-<p align="center">
+<br>
 Faculty of Engineering, Fuzhou University
-<p align="center">
+<br>
 2 XY Road, Fuzhou, Fujian, 350116 China
-<p align="center">
+<br>
 Tel: (1)778-636-1802
-<p align="center">
+<br>
 E-maill: xch.hung@outlook.com
 </p>
 
