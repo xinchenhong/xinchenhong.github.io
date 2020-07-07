@@ -6,6 +6,15 @@
 <p align="center">
 Ph.D of Engineering
 </p>
+<p align="center">
+Fuzhou University
+</p>
+<p align="center">
+Faculty of Engineering
+</p>
+<p align="center">
+E-maill:xch.hung@outlook.com
+</p>
 
 
 
@@ -13,10 +22,7 @@ Ph.D of Engineering
 
 ### News
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
