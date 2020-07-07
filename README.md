@@ -1,7 +1,7 @@
 ![](https://github.com/xinchenhong/xinchenhong.github.io/blob/master/1%E5%AF%B8.jpg)
 
 
-<p align="center">
+**<p align="center">
         <font face="Time New Roman" >Dr. Xin-Chen (Chester) Hong  洪昕晨</font>
         <br>
         <font face="Time New Roman" >Ph.D of Engineering</font>
@@ -13,7 +13,7 @@
         <font face="Time New Roman" >Tel: (1)778-636-1802</font>
         <br>
         <font face="Time New Roman" > E-maill: xch.hung@outlook.com
-        </p>
+        </p>**
 
 ****
 
