@@ -67,5 +67,6 @@
 - <font face="Time New Roman" >2014.09 - 2017.06 &emsp;&emsp;M.S., Landscape Architecture, College of Landscape Architecture, Fujian Agriculture and Forestry University (FAFU); Supervisor: Prof. Si-Ren Lan</font>
 - <font face="Time New Roman" >2010.09 - 2014.06 &emsp;&emsp;B.S., Landscape Architecture, College of JINSHAN, Fujian Agriculture and Forestry University (FAFU)</font>
 
+****
 
 
