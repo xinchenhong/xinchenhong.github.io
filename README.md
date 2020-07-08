@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/39942434/86921593-f5e89080-c15d-11ea-974a-e4bb09b10e0e.png" align="left" width="15%" height="15%">
 
 <p align="center">
-        <font face="Time New Roman" >Dr. Xin-Chen (Chester) Hong  洪昕晨</font>
+        <font face="Time New Roman" ><b>Dr. Xin-Chen (Chester) Hong  洪昕晨</b></font>
         <br>
         <font face="Time New Roman" >Ph.D of Engineering</font>
         <br>
@@ -24,7 +24,7 @@
 
 ### <font face="Time New Roman" >News</font>
 - <font face="Time New Roman" >2020.07.01&emsp;&emsp;I start to work as a lecturer for Fuzhou University (FZU).
-- <font face="Time New Roman" >2020.06.19&emsp;&emsp;I am invited as a reviewer for International Journal of Environmental Research and Public Health.</font>
+- <font face="Time New Roman" >2020.06.19&emsp;&emsp;I am invited as a reviewer for <i>International Journal of Environmental Research and Public Health.</i></font>
 - <font face="Time New Roman" >2020.06.13&emsp;&emsp;I get a PhD dgree in Fujian Agriculture and Forestry University (FAFU). </font>
 - <font face="Time New Roman" >2020.04.25&emsp;&emsp;I am invited to give a presentation for Beijing Forestry University (BFU).</font>
 - <font face="Time New Roman" >2020.03.13&emsp;&emsp;I am invited as a reviewer for Forests.
