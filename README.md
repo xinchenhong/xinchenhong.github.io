@@ -16,7 +16,7 @@
   ****
  
 <p align="center">
-<font face="Time New Roman" >[News] [Research interests] [Publications] [Projects] [Professional experience and education]</font>
+<font face="Time New Roman" >[News] [Research interests] [Publications] [Projects] [Professional experience]</font>
    </p>      
  
  ****
@@ -59,13 +59,13 @@
 
 ****
 
-### <font face="Time New Roman" >Professional experience and education</font>
-- <font face="Time New Roman" >2020.07 - Present &emsp;&emsp;Lecturer, Fuzhou University (FZU)</font>
-- <font face="Time New Roman" >2019.09 - Present &emsp;&emsp;Part-time Research Fellow, University of British Columbia (UBC)</font>
-- <font face="Time New Roman" >2018.08 - 2019.08 &emsp;&emsp;Cooperation Research, University of British Columbia (UBC); Supervisor: Prof. Guang-Yu Wang</font>
-- <font face="Time New Roman" >2017.09 - 2020.06 &emsp;&emsp;Ph.D, Landscape Architecture, Fujian Agriculture and Forestry University (FAFU); Supervisor: Prof. Si-Ren Lan</font>
-- <font face="Time New Roman" >2014.09 - 2017.06 &emsp;&emsp;M.S., Landscape Architecture, Fujian Agriculture and Forestry University (FAFU); Supervisor: Prof. Si-Ren Lan</font>
-- <font face="Time New Roman" >2010.09 - 2014.06 &emsp;&emsp;B.S., Landscape Architecture, Fujian Agriculture and Forestry University (FAFU)</font>
+### <font face="Time New Roman" >Professional experience</font>
+- <font face="Time New Roman" >2020.07 - Present &emsp;&emsp;Lecturer, Faculty of Engineering, Fuzhou University (FZU)</font>
+- <font face="Time New Roman" >2019.09 - Present &emsp;&emsp;Part-time Research Fellow, Faculty of Forestry, University of British Columbia (UBC)</font>
+- <font face="Time New Roman" >2018.08 - 2019.08 &emsp;&emsp;Cooperation Research, Faculty of Forestry, University of British Columbia (UBC); Supervisor: Prof. Guang-Yu Wang</font>
+- <font face="Time New Roman" >2017.09 - 2020.06 &emsp;&emsp;Ph.D, Landscape Architecture, College of Landscape Architecture, Fujian Agriculture and Forestry University (FAFU); Supervisor: Prof. Si-Ren Lan</font>
+- <font face="Time New Roman" >2014.09 - 2017.06 &emsp;&emsp;M.S., Landscape Architecture, College of Landscape Architecture, Fujian Agriculture and Forestry University (FAFU); Supervisor: Prof. Si-Ren Lan</font>
+- <font face="Time New Roman" >2010.09 - 2014.06 &emsp;&emsp;B.S., Landscape Architecture, College of JINSHAN, Fujian Agriculture and Forestry University (FAFU)</font>
 
 
 
