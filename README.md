@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/39942434/86921593-f5e89080-c15d-11ea-974a-e4bb09b10e0e.png" align="left" width="15%" height="15%">
 
 <p align="center">
-        <font face="Time New Roman" >  Dr. Xin-Chen (Chester) Hong  洪昕晨  </font>
+        <b><font face="Time New Roman" >  Dr. Xin-Chen (Chester) Hong  洪昕晨  </font></b>
         <br>
         <font face="Time New Roman" >Ph.D of Engineering</font>
         <br>
