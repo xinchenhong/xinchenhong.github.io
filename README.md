@@ -76,4 +76,4 @@
 
 ****
 
-<font face="Time New Roman" >See  <a href="https://www.researchgate.net/profile/Xin_Chen_Hong">Xin-Chen Hong's ResearchGate</a> for more information. </font>
+<font face="Time New Roman" >View  <a href="https://www.researchgate.net/profile/Xin_Chen_Hong">Xin-Chen Hong's ResearchGate</a> for more information. </font>
