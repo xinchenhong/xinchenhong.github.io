@@ -17,10 +17,14 @@
  
 <p align="center">
  <a href="###News"><font face="Time New Roman" >[News]</font></a>
- <a href="###Research interests"><font face="Time New Roman" >[Research interests]</font></a>
+        &emsp;
+ <a href="###Research interests"><font face="Time New Roman" >[Research Interests]</font></a>
+        &emsp;
   <a href="###Publications"><font face="Time New Roman" >[Publications]</font></a>
+        &emsp;
     <a href="###Projects"><font face="Time New Roman" >[Projects]</font></a>
-    <a href="###Professional experience"><font face="Time New Roman" >[Professional experience]</font></a>
+        &emsp;
+    <a href="###Professional experience"><font face="Time New Roman" >[Professional Experience]</font></a>
        </p>    
     
  ****
@@ -41,7 +45,7 @@
 
 ****
 
-### Research interests
+### Research Interests
 <font face="Time New Roman" >Urban soundscape, urban forest acoustics, urban greening and their applications, particularly in:</font> 
 - <font face="Time New Roman" >Soundscape in urban forests</font>
 
@@ -65,7 +69,7 @@
 
 ****
 
-### Professional experience
+### Professional Experience
 - <font face="Time New Roman" >2020.07 - Present &emsp;&emsp;Lecturer, Faculty of Engineering, Fuzhou University (FZU)</font>
 - <font face="Time New Roman" >2019.09 - Present &emsp;&emsp;Part-time Research Fellow, Faculty of Forestry, University of British Columbia (UBC)</font>
 - <font face="Time New Roman" >2018.08 - 2019.08 &emsp;&emsp;Cooperation Research, Faculty of Forestry, University of British Columbia (UBC); Supervisor: Prof. Guang-Yu Wang</font>
