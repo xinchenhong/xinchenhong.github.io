@@ -25,12 +25,16 @@
     <a href="###Projects"><font face="Time New Roman" >[Projects]</font></a>
         &emsp;
     <a href="###Professional experience"><font face="Time New Roman" >[Professional Experience]</font></a>
+        &emsp; 
+   <a href="https://www.researchgate.net/profile/Xin_Chen_Hong"><font face="Time New Roman" >[ResearchGate]</font></a>
        </p>    
+       
+       
     
  ****
 
 
-### News
+### <font face="Time New Roman" >News</font>
 - <font face="Time New Roman" >2020.07.01&emsp;&emsp;I start to work as a lecturer for Fuzhou University (FZU).
 - <font face="Time New Roman" >2020.06.19&emsp;&emsp;I am invited as a reviewer for International Journal of Environmental Research and Public Health.</font>
 - <font face="Time New Roman" >2020.06.13&emsp;&emsp;I get a PhD dgree in Fujian Agriculture and Forestry University (FAFU). </font>
@@ -45,13 +49,13 @@
 
 ****
 
-### Research Interests
+### <font face="Time New Roman" >Research Interests</font>
 <font face="Time New Roman" >Urban soundscape, urban forest acoustics, urban greening and their applications, particularly in:</font> 
 - <font face="Time New Roman" >Soundscape in urban forests</font>
 
 ****
 
-### Publications
+### <font face="Time New Roman" >Publications</font>
 - <font face="Time New Roman" >Hong, X. C., Wang, G. Y., Liu, J., et al. (2019) Cognitive persistence of soundscape in urban parks. Sustainable Cities and Society, 51:17-26. (SCI, IF= 5.286)</font>
 - <font face="Time New Roman" >Hong, X. C., Liu, J., Wang, G. Y., et al. (2019) Factors influencing the harmonious degree of soundscapes in urban forests: A comparison of broad-leaved and coniferous forests. Urban Forestry and Urban Greening, 39:18-25. (SCI, IF = 4.023)</font>
 - <font face="Time New Roman" >Hong, X. C., Zhu Z. P., Liu J., et al. (2019) Perceived occurrences of soundscape influencing pleasantness in urban forests: a comparison of broad-leaved and coniferous forests. Sustainability, 11:4789. (SCI, IF = 2.576)</font>
@@ -63,13 +67,13 @@
 
 ****
 
-### Projects
+### <font face="Time New Roman" >Projects</font>
 - <font face="Time New Roman" >PI, Modeling the Psychophysics of Soundscape in Forest Parks, the Funding of Engineering Research Center for Forest Park of National Forestry and Grassland Administration, China.</font>
 - <font face="Time New Roman" >CO-PI, Research on the Coordination Evaluation and Earlywarning of Eco-economic System in Protected Areas, National Social Science Foundation, China.</font>
 
 ****
 
-### Professional Experience
+### <font face="Time New Roman" >Professional Experience</font>
 - <font face="Time New Roman" >2020.07 - Present &emsp;&emsp;Lecturer, Faculty of Engineering, Fuzhou University (FZU)</font>
 - <font face="Time New Roman" >2019.09 - Present &emsp;&emsp;Part-time Research Fellow, Faculty of Forestry, University of British Columbia (UBC)</font>
 - <font face="Time New Roman" >2018.08 - 2019.08 &emsp;&emsp;Cooperation Research, Faculty of Forestry, University of British Columbia (UBC); Supervisor: Prof. Guang-Yu Wang</font>
