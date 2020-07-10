@@ -46,7 +46,10 @@
 
 ### <font face="Time New Roman" >Research Interests</font>
 <font face="Time New Roman" >Urban soundscape, urban forest acoustics, urban greening and their applications, particularly in:</font> 
-- <font face="Time New Roman" >Soundscape in urban forests</font>
+- <font face="Time New Roman" >Cognitive Persistence of Soundscape</font>
+- <font face="Time New Roman" >Modeling Perceived Birdsong</font>
+- <font face="Time New Roman" >Sustainable & Natural Soundscape</font>
+- <font face="Time New Roman" >Soundscape Planning & Policy</font>
 
 ****
 
