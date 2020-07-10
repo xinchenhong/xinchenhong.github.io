@@ -16,12 +16,11 @@
   ****
  
 <p align="center">
-
  <a href="https://xinchenhong.github.io/"><font face="Time New Roman" >[News]</font></a>
  <a href="https://xinchenhong.github.io/"><font face="Time New Roman" >[Research interests]</font></a>
   <a href="https://xinchenhong.github.io/"><font face="Time New Roman" >[Publications]</font></a>
-    <a href="https://xinchenhong.github.io/"><font face="Time New Roman" >[Projects]</font></a>
-    <a href="https://xinchenhong.github.io/"><font face="Time New Roman" >[[Professional experience]</font></a>
+    <a href="https://xinchenhong.github.io/###Projects"><font face="Time New Roman" >[Projects]</font></a>
+    <a href="https://xinchenhong.github.io/"><font face="Time New Roman" >[Professional experience]</font></a>
        </p>    
     
  ****
