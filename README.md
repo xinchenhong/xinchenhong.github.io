@@ -17,15 +17,10 @@
  
 <p align="center">
  <a href="###News"><font face="Time New Roman" >[News]</font></a>
-        &emsp;
  <a href="###Research interests"><font face="Time New Roman" >[Research Interests]</font></a>
-        &emsp;
   <a href="###Publications"><font face="Time New Roman" >[Publications]</font></a>
-        &emsp;
     <a href="###Projects"><font face="Time New Roman" >[Projects]</font></a>
-        &emsp;
     <a href="###Professional experience"><font face="Time New Roman" >[Professional Experience]</font></a>
-        &emsp; 
    <a href="https://www.researchgate.net/profile/Xin_Chen_Hong"><font face="Time New Roman" >[ResearchGate]</font></a>
        </p>    
        
@@ -81,4 +76,4 @@
 
 ****
 
-
+<font face="Time New Roman" >See  <a href="https://www.researchgate.net/profile/Xin_Chen_Hong">My ResearchGate</a> for more information. </font>
