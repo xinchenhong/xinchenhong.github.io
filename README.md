@@ -56,9 +56,9 @@
 ****
 
 ### <font face="Time New Roman" >Publications</font>
-- <font face="Time New Roman" >Hong, X. C., Wang, G. Y., Liu, J., et al. (2019) Cognitive persistence of soundscape in urban parks. Sustainable Cities and Society, 51:17-26. (SCI, IF= 5.286)</font>
-- <font face="Time New Roman" >Hong, X. C., Liu, J., Wang, G. Y., et al. (2019) Factors influencing the harmonious degree of soundscapes in urban forests: A comparison of broad-leaved and coniferous forests. Urban Forestry and Urban Greening, 39:18-25. (SCI, IF = 4.023)</font>
-- <font face="Time New Roman" >Hong, X. C., Zhu Z. P., Liu J., et al. (2019) Perceived occurrences of soundscape influencing pleasantness in urban forests: a comparison of broad-leaved and coniferous forests. Sustainability, 11:4789. (SCI, IF = 2.576)</font>
+- <font face="Time New Roman" >Hong, X. C., Wang, G. Y., Liu, J., et al. (2019) Cognitive persistence of soundscape in urban parks. Sustainable Cities and Society, 51:17-26. (SCI, IF= 5.286, Q1)</font>
+- <font face="Time New Roman" >Hong, X. C., Liu, J., Wang, G. Y., et al. (2019) Factors influencing the harmonious degree of soundscapes in urban forests: A comparison of broad-leaved and coniferous forests. Urban Forestry and Urban Greening, 39:18-25. (SCI, IF = 4.023, Q1)</font>
+- <font face="Time New Roman" >Hong, X. C., Zhu Z. P., Liu J., et al. (2019) Perceived occurrences of soundscape influencing pleasantness in urban forests: a comparison of broad-leaved and coniferous forests. Sustainability, 11:4789. (SCI, IF = 2.576, Q2)</font>
 - <font face="Time New Roman" >Hong, X C., Pan, M H.; Yuan, Y N, et al. (2018) An evaluation model suitable to bamboo gardens' soundscape coordination degree. Journal of Vibration and Shock, 37(9):234-238. (EI)</font>
 - <font face="Time New Roman" >Hong, X C.; Jiang, Y.; Wu, S T., et al. (2018) A study on the difference of forest soundscape evaluation models based on geophonies. 25th International Congress on Sound and Vibration_. Hiroshima, Japan: 1547-1553. </font>
 - <font face="Time New Roman" >Hong, X C., Nie, X J.; Dai, Z W.,et al. (2019) Study on evaluation of lightscape under forests in urban parks. IOP: Earth and Environmental Science, 032038. (EI)</font>
