@@ -30,7 +30,7 @@
 
 
 ### <font face="Time New Roman" >News</font>
-- <font face="Time New Roman" >2020.07.31&emsp;&emsp;I start to work as a Research Fellow for Fuzhou University (FZU).
+- <font face="Time New Roman" >2020.08.11&emsp;&emsp;I start to work as a Research Fellow for Fuzhou University (FZU).
 - <font face="Time New Roman" >2020.06.19&emsp;&emsp;I am invited as a reviewer for International Journal of Environmental Research and Public Health.</font>
 - <font face="Time New Roman" >2020.06.13&emsp;&emsp;I get a PhD dgree in Fujian Agriculture and Forestry University (FAFU). </font>
 - <font face="Time New Roman" >2020.04.25&emsp;&emsp;I am invited to give a presentation for Beijing Forestry University (BFU).</font>
@@ -74,7 +74,7 @@
 ****
 
 ### <font face="Time New Roman" >Professional Experience</font>
-- <font face="Time New Roman" >2020.07 - Present &emsp;&emsp;Lecturer, Faculty of Engineering, Fuzhou University (FZU)</font>
+- <font face="Time New Roman" >2020.08 - Present &emsp;&emsp;Research Fellow, Faculty of Engineering, Fuzhou University (FZU)</font>
 - <font face="Time New Roman" >2019.09 - Present &emsp;&emsp;Part-time Research Fellow, Faculty of Forestry, University of British Columbia (UBC)</font>
 - <font face="Time New Roman" >2018.08 - 2019.08 &emsp;&emsp;Cooperation Research, Faculty of Forestry, University of British Columbia (UBC); Supervisor: Prof. Guang-Yu Wang</font>
 - <font face="Time New Roman" >2017.09 - 2020.06 &emsp;&emsp;Ph.D, Landscape Architecture, College of Landscape Architecture, Fujian Agriculture and Forestry University (FAFU); Supervisor: Prof. Si-Ren Lan</font>
