@@ -30,6 +30,7 @@
 
 
 ### <font face="Time New Roman" >News</font>
+- <font face="Time New Roman" >2020.11.21&emsp;&emsp;One paper is accepted by Forest (SCI, IF = 2.221).
 - <font face="Time New Roman" >2020.10.28&emsp;&emsp;I start volunteering as an editor for Urban Biodiversity and Ecosystem Services (UBES).
 - <font face="Time New Roman" >2020.10.07&emsp;&emsp;I get an Award of the Best Lesson at School of Architecture and Urban-Rural Planning in FZU.
 - <font face="Time New Roman" >2020.08.11&emsp;&emsp;I start working as a Research Fellow for Fuzhou University (FZU).
@@ -39,7 +40,6 @@
 - <font face="Time New Roman" >2020.03.13&emsp;&emsp;I am invited as a reviewer for Forests.
 - <font face="Time New Roman" >2019.12.29&emsp;&emsp;I am invited to give a presentation for Shanghai Jiao Tong University (SJTU). </font>
 - <font face="Time New Roman" >2019.10.21&emsp;&emsp;I am invited to give a presentation for Tongji University (TjU). </font>
-- <font face="Time New Roman" >2019.10.20&emsp;&emsp;I get an Award of Excellent Paper and give a presentation in 2019 Congress of Chinese Society of Landscape Architecture. 
 
 ****
 
@@ -58,6 +58,7 @@
 - <font face="Time New Roman" >Hong, X. C., Wang, G. Y., Liu, J., et al. (2019) Cognitive persistence of soundscape in urban parks. Sustainable Cities and Society, 51:17-26. (SCI, IF= 5.286, Q1)</font>
 - <font face="Time New Roman" >Hong, X. C., Liu, J., Wang, G. Y., et al. (2019) Factors influencing the harmonious degree of soundscapes in urban forests: A comparison of broad-leaved and coniferous forests. Urban Forestry and Urban Greening, 39:18-25. (SCI, IF = 4.023, Q1)</font>
 - <font face="Time New Roman" >Hong, X. C., Zhu Z. P., Liu J., et al. (2019) Perceived occurrences of soundscape influencing pleasantness in urban forests: a comparison of broad-leaved and coniferous forests. Sustainability, 11:4789. (SCI, IF = 2.576, Q2)</font>
+- <font face="Time New Roman" >Hong, X. C., Wang G. Y., Liu J., et al. (2020) Perceived loudness sensitivity influenced by brightness in urban forests: a comparison when eyes were opened and closed. Forest. (SCI, IF = 2.221, Q2)</font>
 - <font face="Time New Roman" >Hong, X C., Pan, M H.; Yuan, Y N, et al. (2018) An evaluation model suitable to bamboo gardens' soundscape coordination degree. Journal of Vibration and Shock, 37(9):234-238. (EI)</font>
 - <font face="Time New Roman" >Hong, X C.; Jiang, Y.; Wu, S T., et al. (2018) A study on the difference of forest soundscape evaluation models based on geophonies. 25th International Congress on Sound and Vibration_. Hiroshima, Japan: 1547-1553. </font>
 - <font face="Time New Roman" >Hong, X C., Nie, X J.; Dai, Z W.,et al. (2019) Study on evaluation of lightscape under forests in urban parks. IOP: Earth and Environmental Science, 032038. (EI)</font>
