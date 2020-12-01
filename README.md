@@ -41,7 +41,6 @@
 - <font face="Time New Roman" >2020.04.25&emsp;&emsp;I am invited to give a presentation for Beijing Forestry University (BFU).</font>
 - <font face="Time New Roman" >2020.03.13&emsp;&emsp;I am invited as a reviewer for Forests.
 - <font face="Time New Roman" >2019.12.29&emsp;&emsp;I am invited to give a presentation for Shanghai Jiao Tong University (SJTU). </font>
-- <font face="Time New Roman" >2019.10.21&emsp;&emsp;I am invited to give a presentation for Tongji University (TjU). </font>
 
 ****
 
@@ -72,7 +71,9 @@
 
 ### <font face="Time New Roman" >Projects</font>
 - <font face="Time New Roman" >PI, Modeling the Psychophysics of Soundscape in Forest Parks, the Funding of Engineering Research Center for Forest Park of National Forestry and Grassland Administration, China.</font>
+- <font face="Time New Roman" >PI, the Functionality of Soundscape in Urban Green Space, the Funding of Fujian Education Department, China.</font>
 - <font face="Time New Roman" >CO-PI, Research on the Coordination Evaluation and Earlywarning of Eco-economic System in Protected Areas, National Social Science Foundation, China.</font>
+- <font face="Time New Roman" >CO-PI, Low Carbon Planning and Design, the National Key Research and Development Program of China, China.</font>
 
 ****
 
