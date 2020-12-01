@@ -21,6 +21,7 @@
   <a href="###Publications"><font face="Time New Roman" >[Publications]</font></a>
     <a href="###Projects"><font face="Time New Roman" >[Projects]</font></a>
     <a href="###Professional experience"><font face="Time New Roman" >[Professional Experience]</font></a>
+     <a href="###Journal referee"><font face="Time New Roman" >[Journal referee]</font></a>
    <a href="https://www.researchgate.net/profile/Xin_Chen_Hong"><font face="Time New Roman" >[ResearchGate]</font></a>
        </p>    
        
@@ -80,6 +81,14 @@
 - <font face="Time New Roman" >2019.09 - Present &emsp;&emsp;Part-time Research Fellow, Faculty of Forestry, University of British Columbia (UBC)</font>
 - <font face="Time New Roman" >2018.08 - 2019.08 &emsp;&emsp;Cooperation Research, Faculty of Forestry, University of British Columbia (UBC); Supervisor: Prof. Guang-Yu Wang</font>
 - <font face="Time New Roman" >2017.09 - 2020.06 &emsp;&emsp;Ph.D, Landscape Architecture, College of Landscape Architecture, Fujian Agriculture and Forestry University (FAFU); Supervisor: Prof. Si-Ren Lan</font>
+
+****
+
+### <font face="Time New Roman" >Journal referee</font>
+- <font face="Time New Roman" >Journal of Cleaner Production</font>
+- <font face="Time New Roman" >Urban Forestry and Urban Greenning</font>
+- <font face="Time New Roman" >International journal of environmental research and public health</font>
+- <font face="Time New Roman" >Forests</font>
 
 ****
 
